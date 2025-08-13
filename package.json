@@ -20,6 +20,7 @@
     "npm": "^11.4.2"
   },
   "dependencies": {
-    "express": "^5.1.0"
+    "express": "^5.1.0",
+    "mongoose": "^8.17.1"
   }
 }
